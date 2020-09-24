@@ -20,43 +20,43 @@ const questions = [
     {
 
         type: "input",
-        message: "What is the title of your project?",
+        message: "\n \n \n What is the title of your project? \n \n \n",
         name: "title",
-        default: "You Forgot To Add A Project Title.."
+        default: "Enter a Project Title Here"
 
     },
 
     {
 
         type: "input",
-        message: "Describe your project. What, why, & how?",
+        message: "\n \n \n Describe your project. What, why, & how? \n \n \n",
         name: "description",
-        default: "Placeholder for the Project Description.."
+        default: "Enter a Project Description Here"
 
     },
 
     {
 
         type: "input",
-        message: "What are the steps required to install your project? (If applicable)..",
+        message: "\n \n \n What are the steps required to install your project? (If applicable)..\n \n \n",
         name: "installation",
-        default: "Placeholder for the Installation Steps.."
+        default: "Enter your installation steps here"
 
     },
 
     {
 
         type: "input",
-        message: "Provide your instructions and examples for use.",
+        message: "\n \n \n Provide your instructions and examples for use. \n \n \n",
         name: "usage",
-        default: "Placeholder for the Usage Instructions.."
+        default: "Enter your usage instructions here"
 
     },
 
     {
 
         type: "list",
-        message: "Please choose a license from the list below and a badge will be applied at the top of your README file.",
+        message: "\n \n \n Please choose a license from the list below and a badge will be applied at the top of your README file. \n \n \n",
         name: "license",
         default: "MIT",
         choices: 
@@ -73,52 +73,53 @@ const questions = [
     {
 
         type: "input",
-        message: "Add guidelines that inform other developers how they can contribute to your project.",
+        message: "\n \n \n Add guidelines that inform other developers how they can contribute to your project. \n \n \n",
         name: "contributing",
-        default: "Placeholder for the Contributions Section.."
+        default: "Enter your contribution information here"
 
     },
 
     {
 
         type: "input",
-        message: "Go the extra mile and write some tests for your application. Then provide examples on how to run them here.",
+        message: "\n \n \n Go the extra mile and write some tests for your application. Then provide examples on how to run them here. \n \n \n",
         name: "tests",
-        default: "Placeholder for the Tests Section.."
+        default: "Enter your application testing information here"
 
     },
     
     {
 
         type: "input",
-        message: "List your collaborators, if any. Third-Party Assets? Tutorials?",
+        message: "\n \n \n List your collaborators, if any. Third-Party Assets? Tutorials? \n \n \n",
         name: "credits",
-        default: "Placeholder for the Credits Section.."
+        default: "List your collaborators/credits here"
 
     },
 
     {
 
         type: "input",
-        message: "Enter your primary email address.",
+        message: "\n \n \n Enter your primary email address. \n \n \n",
         name: "email",
-        default: "youforgot@youremail.com",
+        default: "PleaseEnterYourEmail@email.com",
 
     },
 
     {
 
         type: "input",
-        message: "Please enter your GitHub username here. Do not include an @ symbol.",
+        message: "\n \n \n Please enter your GitHub username here. Do not include an @ symbol. \n \n \n",
         name: "githubusername",
         default: "madrobby/vapor.js"
+
     }
     
 
 ];
 
 
-// function t)o write README file
+// function to write the README file
 
 function writeToFile(fileName, data) {
 
@@ -130,8 +131,8 @@ function writeToFile(fileName, data) {
 
     });
 
-    
-    console.log("Congratulations. You are now the proud owner of a brand new README file.")
+
+    console.log("\n \n \n Congratulations! You are now the proud owner of a brand new README file! \n \n \n")
 
 };
 
@@ -140,7 +141,7 @@ function writeToFile(fileName, data) {
 
 function init() {
 
-    inquirer.prompt(questions).then(function (answers) {
+    inquirer.prompt(questions).then((answers) => {
 
         writeToFile("GeneratedREADME.md", generateMarkdown(answers));
 
