@@ -20,7 +20,7 @@ When publishing your work on GitHub, it is of the utmost importance that you pro
 <p>&nbsp;<p>
 
 
-The README you are viewing currently is relevant to the project itself, and does display not the entirety of this applications render potential. View an example of a file with all of the offered sections included here => [`SampleREADME.md`](https://drive.google.com/file/d/1vr9M0dLtCSP1vt6AKRdw7Or_VSdq-5TP/view)
+The README you are viewing currently is relevant to the project itself, and does display not the entirety of this applications render potential. View an example of a file with all of the offered sections included here => [`SampleREADME.md`](https://github.com/jonathanschimpf/README-Generator/blob/master/SampleREADME.md)
 
 
 <p>&nbsp;<p>
@@ -95,7 +95,7 @@ View a video overview on usage here:
 <p>&nbsp;<p>
 
 
-[![IMAGE](content/creatingprojecttitile_screengrab_playbutton.jpg)](https://drive.google.com/file/d/1j9GrG6QTUkGiJMAumKA4bWCoDt3iasW_/preview) 
+[![IMAGE](content/creatingprojecttitile_screengrab_playbutton.jpg)](https://drive.google.com/file/d/1vr9M0dLtCSP1vt6AKRdw7Or_VSdq-5TP/view) 
 
 <p>&nbsp;<p>
 
