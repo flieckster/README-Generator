@@ -38,6 +38,7 @@ The README you are viewing currently is relevant to the project itself, and does
 * [Installation](#installation)
 * [Usage](#usage)
 * [License](#license)
+* [Credits](#credits)
 * [Questions](#questions)
 
 <p>&nbsp;<p>
@@ -81,8 +82,7 @@ Once set up with the dependencies, begin the series of questioning for your READ
 <p>&nbsp;<p>
 
 
-<strong><em>Provide your instructions and examples for usage.</strong></em>
-
+<strong><em>Instructions and examples for usage:</strong></em>
 
 <p>&nbsp;<p>
 
@@ -125,6 +125,34 @@ View a video overview on usage here:
 
 
 This project is covered under the MIT license. 
+
+
+<p>&nbsp;<p>
+
+
+---
+
+
+<p>&nbsp;<p>
+
+
+## Credits
+
+
+<p>&nbsp;<p>
+
+
+<strong><em>Third party assets:</strong></em>
+
+
+<p>&nbsp;<p>
+
+`Node.js` => [ An asynchronous event-driven runtime built on Chrome's V8 JavaScript engine.](http://github.com/jonathanschimpf)
+
+<p>&nbsp;‏‏‎‏‏‎ ‎<strong>+</strong><p>
+
+
+`inquirer npm` => [A beautiful collection of common interactive command line user interfaces.](https://www.npmjs.com/package/inquirer)
 
 
 <p>&nbsp;<p>
