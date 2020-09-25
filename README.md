@@ -1,5 +1,5 @@
 # A README File Generator‏‏‎
-‎‎![License](https://img.shields.io/static/v1?label=License&message=Apache&color=brightgreen) 
+‎‎![License](https://img.shields.io/static/v1?label=License&message=MIT&color=brightgreen) 
   
 
   ---
