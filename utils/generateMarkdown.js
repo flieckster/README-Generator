@@ -4,8 +4,6 @@ function generateMarkdown(data) {
   return `# ${data.title}‏‏‎
 ‎‎![License](https://img.shields.io/static/v1?label=License&message=${data.license}&color=brightgreen) 
   
-  <p>&nbsp;<p>
-  <p>&nbsp;<p>
 
   ---
   

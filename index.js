@@ -82,7 +82,7 @@ const questions = [
     {
 
         type: "input",
-        message: "\n \n \n Go the extra mile and write some tests for your application. Then provide examples on how to run them here. \n \n \n",
+        message: "\n \n \n Write some tests for your application and then provide examples on how to run them here. \n \n \n",
         name: "tests",
         default: "Enter your application testing information here"
 
