@@ -95,8 +95,6 @@ These prompts are possible via the `inquirer` package.
 
 
 View a video overview on usage here:
-<p>&nbsp;<p>
-
 
 [![IMAGE](content/creatingprojecttitile_screengrab_playbutton.jpg)](https://drive.google.com/file/d/1vr9M0dLtCSP1vt6AKRdw7Or_VSdq-5TP/view) 
 
@@ -107,7 +105,7 @@ View a video overview on usage here:
 <p>&nbsp;<p>
 
 
-![Generated README](content/creatingprojecttitile_screengrab_STILL.jpg)
+![Generated README](content/READMEFILE_ScreenGrab_STILL_FINAL.jpg)
 
 <p>&nbsp;<p>
 
