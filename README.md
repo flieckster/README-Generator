@@ -20,7 +20,7 @@ When publishing your work on GitHub, it is of the utmost importance that you pro
 <p>&nbsp;<p>
 
 
-The README you are viewing currently is relevant to the project itself, and does display not the entirety of this applications render potential. View an example of a file with all of the offered sections included here => [`SampleREADME.md`](https://github.com/jonathanschimpf/README-Generator/blob/master/SampleREADME.md)
+The README you are viewing currently is relevant to the project itself, and does display not the entirety of this applications render potential. View a file with all of the offered sections included here => [`SampleREADME.md`](https://github.com/jonathanschimpf/README-Generator/blob/master/SampleREADME.md)
 
 
 <p>&nbsp;<p>
@@ -64,7 +64,7 @@ To make use of this application, you must first run `npm install` within the ter
 
 <p>&nbsp;<p>
 
-Once set up with the dependencies, begin the series of questioning for your README with the command line of `node index.js`.
+Once set up with the dependencies, begin the series of questioning for your README by running `node index.js`.
 
 
 <p>&nbsp;<p>
@@ -86,7 +86,10 @@ Once set up with the dependencies, begin the series of questioning for your READ
 
 <p>&nbsp;<p>
 
-Answer a series of questions about your project to generate your markdown file. These prompts are possible via the `inquirer` package.
+Answer a series of questions about your project to generate your markdown file. 
+<p>&nbsp;<p>
+
+These prompts are possible via the `inquirer` package.
 
 <p>&nbsp;<p>
 
