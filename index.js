@@ -143,7 +143,7 @@ function init() {
 
     inquirer.prompt(questions).then((answers) => {
 
-        writeToFile("GeneratedREADME.md", generateMarkdown(answers));
+        writeToFile("SampleREADME.md", generateMarkdown(answers));
 
     })
 };

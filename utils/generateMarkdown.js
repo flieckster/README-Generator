@@ -14,6 +14,10 @@ function generateMarkdown(data) {
 
 <p>&nbsp;<p>
 
+<strong><em>What is this project? Why did you make this project? How did you make this project?</strong></em>
+
+<p>&nbsp;<p>
+
 ${data.description}
 
 <p>&nbsp;<p>
@@ -46,9 +50,13 @@ ${data.description}
 
 ## Installation
 
-
 <p>&nbsp;<p>
 
+
+<strong><em>What are the steps required to install this project? (If applicable)..</strong></em>
+
+
+<p>&nbsp;<p>
 
 ${data.installation}
 
@@ -62,6 +70,11 @@ ${data.installation}
 
 
 ## Usage
+
+<p>&nbsp;<p>
+
+
+<strong><em>Add guidelines that inform other developers how they can contribute to your project.</strong></em>
 
 
 <p>&nbsp;<p>
@@ -102,6 +115,11 @@ This project is covered under the ${data.license} license.
 <p>&nbsp;<p>
 
 
+<strong><em>Add guidelines that inform other developers how they can contribute to your project.</strong></em>
+
+
+<p>&nbsp;<p>
+
 ${data.contributing}
 
 
@@ -120,6 +138,11 @@ ${data.contributing}
 <p>&nbsp;<p>
 
 
+<strong><em>Write some tests for your application and then provide examples on how to run them here.</strong></em>
+
+
+<p>&nbsp;<p>
+
 ${data.tests}
 
 
@@ -133,6 +156,12 @@ ${data.tests}
 
 
 ## Credits
+
+
+<p>&nbsp;<p>
+
+
+<strong><em>List your collaborators, if any. Use any third party assets? Tutorials?</strong></em>
 
 
 <p>&nbsp;<p>
@@ -163,15 +192,9 @@ Shoot me an e-mail! => ${data.email}
 
 Check out more of my work here on =>
 [GitHub](http://github.com/${data.githubusername})
-<p>&nbsp;<p>
-<p>&nbsp;<p>
-
-
----
-
 
 <p>&nbsp;<p>
-<p>&nbsp;<p>
+
 `;
 
 };
