@@ -74,7 +74,7 @@ ${data.installation}
 <p>&nbsp;<p>
 
 
-<strong><em>Add guidelines that inform other developers how they can contribute to your project.</strong></em>
+<strong><em>Provide your instructions and examples for usage.</strong></em>
 
 
 <p>&nbsp;<p>

@@ -73,7 +73,7 @@ Trust fund echo park narwhal unicorn, flannel pop-up food truck meggings tacos a
 <p>&nbsp;<p>
 
 
-<strong><em>Add guidelines that inform other developers how they can contribute to your project.</strong></em>
+<strong><em>Provide your instructions and examples for usage.</strong></em>
 
 
 <p>&nbsp;<p>
@@ -95,7 +95,7 @@ IPhone typewriter est ad magna tumblr tattooed synth aesthetic marfa fashion axe
 <p>&nbsp;<p>
 
 
-This project is covered under the Apache license. 
+This project is covered under the MIT license. 
 
 
 <p>&nbsp;<p>
