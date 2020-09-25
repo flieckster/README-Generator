@@ -147,7 +147,7 @@ This project is covered under the MIT license.
 
 <p>&nbsp;<p>
 
-`Node.js` => [ An asynchronous event-driven runtime built on Chrome's V8 JavaScript engine.](http://github.com/jonathanschimpf)
+`Node.js` => [ An asynchronous event-driven runtime built on Chrome's V8 JavaScript engine.](https://nodejs.org/en/)
 
 <p>&nbsp;‏‏‎‏‏‎ ‎<strong>+</strong><p>
 
